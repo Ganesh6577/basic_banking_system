@@ -1,5 +1,5 @@
 # Banking_System_Website
-Created and Developed by : sameer mulla. 
+Created and Developed by : Ganesh Anarase. 
 This is Basic Banking System Website built in Visual Studio Code.
 In this website we can view customers and can transfer money among them.
 Customers table will have basic fields such as name, email, current balance,etc. 
